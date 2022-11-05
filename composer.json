@@ -1,0 +1,18 @@
+{
+    "name": "theliver/interpreteception",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Theliver\\Interpreteception\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "theliver",
+            "email": "kuba.bialy.92@icloud.com"
+        }
+    ],
+    "require": {}
+}
