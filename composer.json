@@ -5,7 +5,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Theliver\\Interpreteception\\": "src/"
+            "Theliver\\Interpreteception\\": "src/",
+            "Tests\\": "tests/"
         }
     },
     "authors": [
